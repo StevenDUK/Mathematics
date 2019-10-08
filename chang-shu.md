@@ -10,5 +10,5 @@ e = 2.718281...
 
 ### Testing
 
-$$\sigma10$$
+$$lim_{n \to \infty} (1+\frac{1}{n})^n = 5$$
 
