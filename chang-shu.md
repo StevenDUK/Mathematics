@@ -6,9 +6,5 @@ e = 2.718281...
 
 ### 定義
 
-1. 將e定義為一個極限值 $ e = \lim{} $ 
-
-### Testing
-
-$$lim_{n \to \infty} (1+\frac{1}{n})^n = 5$$
+1. 將e定義為一個極限值 $$lim_{n \to \infty} (1+\frac{1}{n})^n = 5$$
 
