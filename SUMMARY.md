@@ -1,5 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [常數](chang-shu.md)
+* [常數](Constant.md)
 
